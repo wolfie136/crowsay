@@ -19,6 +19,6 @@ Installation for OS X:
 
 - Install Homebrew (http://www.brew.sh)
 - brew install fortune cowsay
-- Copy the crow.cow into /usr/local/Cellar/cowsay/<version>/share/cows/
-- Copy the mst3k and mst3k.dat files into /usr/local/Cellar/fortune/<version>/share/games/fortunes/
+- Copy the crow.cow into /usr/local/Cellar/cowsay/[version]/share/cows/
+- Copy the mst3k and mst3k.dat files into /usr/local/Cellar/fortune/[version]/share/games/fortunes/
 - fortune mst3k | cowsay -f crow 
